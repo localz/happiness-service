@@ -1,2 +1,2 @@
 # happiness-service
-small docker service for localz challenge
+Small docker service for localz challenge. 
